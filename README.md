@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Python+Developer;Computer+Vision+Enthusiast;Generative+AI+Learner;RAG+AI+Agent+Builder;Building+Real-World+AI+Projects" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SayemKhan1111&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+
 
 <p align="center">
   <a href="https://sayemkhan1111.github.io/sayemkhan-portfolio/">
