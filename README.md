@@ -81,27 +81,9 @@ Cloud AI          █████░░░░░  50%
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SayemKhan1111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    height="165"
-    alt="Sayem Khan GitHub Stats"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SayemKhan1111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
 
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app?user=SayemKhan1111&theme=tokyonight&hide_border=true" 
-    height="165"
-    alt="Sayem Khan GitHub Streak"
-  />
-
-</div>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayemKhan1111&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayemKhan1111&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -111,10 +93,7 @@ Cloud AI          █████░░░░░  50%
 
 <div align="center">
 
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=SayemKhan1111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" 
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=SayemKhan1111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
 
