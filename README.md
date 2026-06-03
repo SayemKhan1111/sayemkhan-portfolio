@@ -91,14 +91,14 @@ Cloud AI          █████░░░░░  50%
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=SayemKhan1111&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" 
-      alt="GitHub Trophies" 
-    />
-  </a>
-</p>
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Repositories-Active-00C853?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-Regular-2979FF?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Projects-AI%2FML-FF6D00?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Open%20Source-Learning-9C27B0?style=for-the-badge&logo=github" />
+
+</div>
 
 ---
 
