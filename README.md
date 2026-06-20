@@ -20,16 +20,14 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
-🎓 **BCA (AI & ML) Graduate** from India
-🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI**, and **Data Analyst**
-📊 Skilled in **Power BI, SQL, Data Visualization, Dashboard Development, and Data Analysis**
-🔭 Currently building **AI Automation, RAG AI Agents, ML Projects**, and **Data Analytics Projects**
-🌱 Learning **FastAPI, Cloud AI, LangChain**, and **Model Deployment**
-💬 Ask me about **Python,Data Anaytics ML, DL, CV, NLP, RAG, Power BI, SQL, and Data Analytics**
-
+* 🎓 BCA (AI & ML) Graduate from India
+* 🤖 Passionate about Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Data Analytics
+* 📊 Skilled in Power BI, SQL, Data Visualization, Dashboard Development, and Data Analysis
+* 🔭 Currently building AI Automation, RAG AI Agents, ML Projects, and Data Analytics Projects
+* 🌱 Learning FastAPI, Cloud AI, LangChain, and Model Deployment
+* 💬 Ask me about Python, Data Analytics, ML, DL, CV, NLP, RAG, Power BI, and SQL
 - 📫 Reach me at **sayemkhanraqraq@gmail.com**
 
 ---
