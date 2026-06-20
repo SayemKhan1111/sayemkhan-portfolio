@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Sayem%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Python%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Sayem Khan</h1>
-<h3 align="center">AI/ML Engineer · Python · Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI</h3>
+<h3 align="center">AI/ML Engineer  · Data Analyst · Python · Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&center=true&vCenter=true&width=850&lines=AI%2FML+Engineer;Python+Developer;Computer+Vision+Enthusiast;Generative+AI+Learner;RAG+AI+Agent+Builder;Building+Real-World+AI+Projects" />
@@ -23,11 +23,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **BCA AI & ML** student from India
-- 🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP** and **Generative AI**
-- 🔭 Currently working on **AI Automation, RAG AI Agents** and **ML Projects**
-- 🌱 Learning **FastAPI, Cloud AI, LangChain** and **Model Deployment**
-- 💬 Ask me about **Python, ML, DL, CV, NLP, RAG** and **Power BI**
+🎓 **BCA (AI & ML) Graduate** from India
+🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI**, and **Data Analyst**
+📊 Skilled in **Power BI, SQL, Data Visualization, Dashboard Development, and Data Analysis**
+🔭 Currently building **AI Automation, RAG AI Agents, ML Projects**, and **Data Analytics Projects**
+🌱 Learning **FastAPI, Cloud AI, LangChain**, and **Model Deployment**
+💬 Ask me about **Python,Data Anaytics ML, DL, CV, NLP, RAG, Power BI, SQL, and Data Analytics**
+
 - 📫 Reach me at **sayemkhanraqraq@gmail.com**
 
 ---
